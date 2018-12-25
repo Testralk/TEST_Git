@@ -1,1 +1,0 @@
-print("Tekst testu git'a")
